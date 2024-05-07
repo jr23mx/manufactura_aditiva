@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Romero
+    given-names: Jesus
+    orcid: https://orcid.org/0009-0000-9826-9654
+title: "Metodologías para simular procesos de Deposición de Energía Directa.
+"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.1234
+date-released: 2024-06-05
